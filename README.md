@@ -1,7 +1,6 @@
 ### Hi there 👋, My name is Vipeen Kumar. Welcome to my Github! 
 I am a **research scholar** at Panjab University, Chandiarh. 
-### About my github resources
-I have uploaded some of my projects that i have implemented and learnt during my Ph.D. Here you will get latex, python and r files with their applications in econometrics, finance and machine learning. I have also added some courses in economics, statistics, finance and machine learning. Do checkout them also. 
+
 ### Here's my brief profile.
 - 🔭 I’m currently working on Exchange Rates.
 - 🌱 I’m currently learning various skills like Python, R and Machine learning
@@ -13,7 +12,8 @@ I have uploaded some of my projects that i have implemented and learnt during my
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I am a multicultural, multi linguistic and multi regional guy. 😃😃
   
-
+### About my github resources
+I have uploaded some of my projects that i have implemented and learnt during my Ph.D. Here you will get latex, python and r files with their applications in econometrics, finance and machine learning. I have also added some courses in economics, statistics, finance and machine learning. Do checkout them also. 
 | Course      | Description | Repos |
 | :-----        |    :----:   |  ----:  |
 | <a href='https://vipeen21.github.io'>Bayesian Statistic using Python</a>      | This training will walk you through all the must-know concepts related to bayesian statistics with applications in economics, finance and machine learning with code examples in python. Core concepts covered are: <b>bayesian inference</b>,  <b>bayesian estimator</b>,  <b>loss function</b>,  etc.      | [link](https://github.com/Vipeen21/courses) |
