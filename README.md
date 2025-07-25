@@ -8,5 +8,5 @@ My name is Vipeen Kumar. I am a research scholar at Panjab University, Chandiarh
 - 📫 How to reach me: go to my linked in profile → https://www.linkedin.com/in/vipeen-kumar-908212b8
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I am a multicultural, multi linguistic and multi regional guy. 😃😃
-- 
+  
 
