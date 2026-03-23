@@ -21,6 +21,6 @@ I have uploaded some of my projects that i have implemented and learnt during my
 | <a href='https://vipeen21.github.io'>Latex files</a>      | This training will teach you latex code by using learn by doing approach. This will teach you adding <b>figures</b>, <b>graphs</b>, <b>references</b> etc into your research paper or thesis.       | [link](https://github.com/Vipeen21/Latex_files) |
 | <a href='https://vipeen21.github.io'>Machine Learning</a>      | Here you will get machine learning projects on <b>XGboost</b>, <b>random</b>, <b>forest</b>, <b>LGBM</b>, <b>LSTM</b> and other machine learning concepts.      | [link](https://github.com/Vipeen21/machine-learning-projects) |
 | <a href='https://vipeen21.github.io'>Fourier and Wavelet transform</a>      | This training will teach you  all the must-know concepts related to <b>fourier and wavelet transform</b> with applications in economics and finance using python.    | [link](https://github.com/Vipeen21/exrv) |
-| <a href='https://vipeen21.github.io'>Quantitative Finance</a>      | Here you will get quantitative finance concepts implied volatility, stochastic volatility, risk neutral pricing, greeks and many more    | [link](https://github.com/Vipeen21/Quant-finance) |
+| <a href='https://vipeen21.github.io'>Quantitative Finance</a>      | Here you will get quantitative finance concepts like implied volatility, stochastic volatility, risk neutral pricing, greeks and many more    | [link](https://github.com/Vipeen21/Quant-finance) |
 
 
