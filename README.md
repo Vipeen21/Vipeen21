@@ -7,7 +7,7 @@ I am a **research scholar** at Panjab University, Chandiarh.
 - 👯 I’m looking to collaborate on research on econometric and financial models.
 - 🤔 I’m looking for help with resources in the above fields and will surely look into that.
 - 💬 Ask me about anything about the above field, I will give my best.  
-- 📫 How to reach me: go to my linked in profile [(Vipeen Kumar)](https://www.linkedin.com/in/vipeen-kumar-908212b8)
+- 📫 How to reach me: go to my linkedin profile [(Vipeen Kumar)](https://www.linkedin.com/in/vipeen-kumar-908212b8)
 - 🌐 My website: vipeen21.github.io
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I am a multicultural, multi linguistic and multi regional guy. 😃😃
