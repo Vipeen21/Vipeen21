@@ -7,8 +7,8 @@ I am a **Senior Researcher** at Panjab University, Chandigarh.
 - 👯 I’m looking to collaborate on research on econometric and financial models, along with data science.
 - 🤔 I’m looking for help with resources in the above fields and will surely look into that.
 - 💬 Ask me about anything in the above field, and I will give my best.  
-- 📫 How to reach me: go to my linkedin profile [(Vipeen Kumar)](https://www.linkedin.com/in/vipeen-kumar-908212b8)
-- 🌐 My website: vipeen21.github.io
+- 📫 How to reach me: go to my [(linkedin profile)](https://www.linkedin.com/in/vipeen-kumar-908212b8)
+- 🌐 Visit my [(website)](https://vipeen21.github.io/) for more courses, study materials and codes.vipeen21.github.io
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I am a multicultural, multilingual and multi-regional guy. 😃😃
   
