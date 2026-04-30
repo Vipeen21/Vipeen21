@@ -8,7 +8,7 @@ I am a **Senior Researcher** at Panjab University, Chandigarh.
 - 🤔 I’m looking for help with resources in the above fields and will surely look into that.
 - 💬 Ask me about anything in the above field, and I will give my best.  
 - 📫 How to reach me: go to my [Linkedin Profile](https://www.linkedin.com/in/vipeen-kumar-908212b8)
-- 🌐 Visit my [Website](https://vipeen21.github.io/) for more courses, study materials and codes.vipeen21.github.io
+- 🌐 Visit my [Website](https://vipeen21.github.io/) for more courses, study materials and codes.
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I am a multicultural, multilingual and multi-regional guy. 😃😃
   
