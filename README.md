@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Vipeen Kumar. Welcome to my Github! 
-I am a **Senior Researcher** at Panjab University, Chandiarh. 
+I am a **Senior Researcher** at Panjab University, Chandigarh. 
 
 ### Here's my brief profile.
 - 🔭 I’m currently working on Exchange Rates Volatility.
