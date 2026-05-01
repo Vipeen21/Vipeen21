@@ -4,8 +4,8 @@ I am a **Senior Researcher** at Panjab University, Chandigarh.
 ### Here's my brief profile.
 - 🔭 My major work is on **Quantitative Research**.
 - 🌱 Leveraging the Data Science 'Holy Trinity' — **Python, R, and Machine Learning** — to build complex intelligent systems.
-- 👯 I’m looking to collaborate on research on **econometrics** and **financial models**, along with **data science**.
-- 🤔 I’m looking for help with resources in the above fields and will surely look into that.
+- 👯 Looking to connect with researchers and industry experts to co-develop **financial models** and **econometric analyses** along with **data science**.
+- 🤔 If you have any holy grails for **econometrics, finance or ML**, send them over, I’m ready to sacrifice my sleep to the data gods.
 - 💬 Ask me about anything in the above field, and I will give my best.  
 - 📫 How to reach me: go to my [**Linkedin Profile**](https://www.linkedin.com/in/vipeen-kumar-908212b8)
 - 🌐 Visit my [**Website**](https://vipeen21.github.io/) for more courses, study materials and codes.
