@@ -2,9 +2,9 @@
 I am a **Senior Researcher** at Panjab University, Chandigarh. 
 
 ### Here's my brief profile.
-- 🔭 I’m currently working on Exchange Rates Volatility.
+- 🔭 I’m currently working on **Exchange Rates Volatility**.
 - 🌱 I’m currently learning various skills like Python, R and Machine learning
-- 👯 I’m looking to collaborate on research on econometric and financial models, along with data science.
+- 👯 I’m looking to collaborate on research on **econometrics** and **financial models**, along with **data science**.
 - 🤔 I’m looking for help with resources in the above fields and will surely look into that.
 - 💬 Ask me about anything in the above field, and I will give my best.  
 - 📫 How to reach me: go to my [Linkedin Profile](https://www.linkedin.com/in/vipeen-kumar-908212b8)
@@ -12,18 +12,18 @@ I am a **Senior Researcher** at Panjab University, Chandigarh.
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I am a multicultural, multilingual and multi-regional guy. 😃😃
   
-### About my github resources
-I have uploaded some of my projects that i have implemented and learnt during my Ph.D. Here you will get latex, python and r files with their applications in econometrics, finance and machine learning. I have also added some courses in economics, statistics, finance and machine learning. Do checkout them also. 
+### About my GitHub resources
+I have uploaded some of my projects that I have implemented and learned during my PhD. Here you will get Python, R and LaTeX files with their applications in econometrics, finance and machine learning. I have also added some courses in economics, statistics, finance and machine learning. Do check them out also. 
 | Course      | Description | Repos |
 | :-----        |    :----:   |  ----:  |
-| <a href='https://vipeen21.github.io'>Quantitative Finance</a>      | Here you will get algo-trading with backtesting and quantitative finance concepts like implied volatility, stochastic volatility, risk neutral pricing, greeks and many more    | [link](https://github.com/Vipeen21/Quant-finance) |
-| <a href='https://vipeen21.github.io'>Machine Learning</a>      | Here you will get machine learning projects on <b>XGboost</b>, <b>random</b>, <b>forest</b>, <b>LGBM</b>, <b>LSTM</b> and other machine learning concepts.      | [link](https://github.com/Vipeen21/machine-learning-projects) |
-| <a href='https://vipeen21.github.io'>Exchange rate volatility</a>      | This training will teach you  all the must-know concepts related to exchange rates and various concepts used in econometrics using python. Core concepts covered are: <b>volatility</b>,  <b>garch</b>  <b>impulse response function</b>,  etc.      | [link](https://github.com/Vipeen21/exrv) |
-| <a href='https://vipeen21.github.io'>Fourier and Wavelet transform</a>      | This training will teach you  all the must-know concepts related to <b> Fourier and Wavelet transform</b> with applications in economics and finance using Python.    | [link](https://github.com/Vipeen21/exrv) |
-| <a href='https://vipeen21.github.io'>Bayesian Statistics using Python</a>      | This training will walk you through all the must-know concepts related to Bayesian statistics with applications in economics, finance and machine learning with code examples in Python. Core concepts covered are: <b>bayesian inference</b>,  <b>bayesian estimator</b>,  <b>loss function</b>,  etc.      | [link](https://github.com/Vipeen21/bayesian-statistics-python) |
-| <a href='https://vipeen21.github.io'>Geospatial Analysis</a>      | This repository sits at the intersection of economics and geography. Here, the analysis is done with the help of GeoJSON files in Python. Interactive charts modules in Python are used for data visualisation | [link](https://github.com/Vipeen21/Geospatial-Analysis) |
-| <a href='https://vipeen21.github.io'>Integrus Plagiarism Checker</a>      | Here you will get a Python programme on building your own plagiarism checker with the help of AI. It will show the matching score along with the source of the original content.| [link](https://github.com/Vipeen21/Plagiarism-Checker) |
-| <a href='https://vipeen21.github.io'>Latex files</a>      | This training will teach you latex code by using a learn-by-doing approach. This will teach you how to add <b>figures</b>, <b>graphs</b>, <b>references</b>, etc., into your research paper or thesis.       | [link](https://github.com/Vipeen21/Latex_files) |
+| <a href='https://vipeen21.github.io'>**Quantitative Finance**</a>      | Here you will get **algo-trading with backtesting** and quantitative finance concepts like **implied volatility, stochastic volatility, risk neutral pricing, greeks** and many more.    | [link](https://github.com/Vipeen21/Quant-finance) |
+| <a href='https://vipeen21.github.io'>**Machine Learning**</a>      | Here you will get machine learning projects on <b>XGboost</b>, <b>random</b>, <b>forest</b>, <b>LGBM</b>, <b>LSTM</b> and other machine learning concepts.      | [link](https://github.com/Vipeen21/machine-learning-projects) |
+| <a href='https://vipeen21.github.io'>**Exchange rate volatility**</a>      | This training will teach you  all the must-know concepts related to exchange rates and various concepts used in econometrics using Python. Core concepts covered are: <b>volatility</b>,  <b>GARCH</b>,  <b>impulse response function</b>,  etc.      | [link](https://github.com/Vipeen21/exrv) |
+| <a href='https://vipeen21.github.io'>**Fourier and Wavelet transform**</a>      | This training will teach you  all the must-know concepts related to <b> Fourier and Wavelet transform</b> with applications in economics and finance using Python.    | [link](https://github.com/Vipeen21/exrv) |
+| <a href='https://vipeen21.github.io'>**Bayesian Statistics using Python**</a>      | This training will walk you through all the must-know concepts related to Bayesian statistics with applications in economics, finance and machine learning with code examples in Python. Core concepts covered are: <b>bayesian inference</b>,  <b>bayesian estimator</b>,  <b>loss function</b>,  etc.      | [link](https://github.com/Vipeen21/bayesian-statistics-python) |
+| <a href='https://vipeen21.github.io'>**Geospatial Analysis**</a>      | This repository sits at the intersection of economics and geography. Here, the analysis is done with the help of **GeoJSON files** in Python. Interactive charts modules in Python are used for data visualisation. | [link](https://github.com/Vipeen21/Geospatial-Analysis) |
+| <a href='https://vipeen21.github.io'>**Integrus Plagiarism Checker**</a>      | Here you will get a Python programme on building your own plagiarism checker with the help of AI. It will show the matching score along with the source of the original content.| [link](https://github.com/Vipeen21/Plagiarism-Checker) |
+| <a href='https://vipeen21.github.io'>**Latex files**</a>    | This training will teach you latex code by using a learn-by-doing approach. This will teach you how to add <b>figures</b>, <b>graphs</b>, <b>references</b>, etc., into your research paper or thesis.       | [link](https://github.com/Vipeen21/Latex_files) |
 
 
 
