@@ -2,13 +2,13 @@
 I am a **Senior Researcher** at Panjab University, Chandigarh. 
 
 ### Here's my brief profile.
-- 🔭 I’m currently working on **Exchange Rates Volatility**.
-- 🌱 I’m currently learning various skills like Python, R and Machine learning
+- 🔭 My major work is on **Quantitative Research**.
+- 🌱 I’m currently learning various skills like **Python, R and Machine learning**.
 - 👯 I’m looking to collaborate on research on **econometrics** and **financial models**, along with **data science**.
 - 🤔 I’m looking for help with resources in the above fields and will surely look into that.
 - 💬 Ask me about anything in the above field, and I will give my best.  
-- 📫 How to reach me: go to my [Linkedin Profile](https://www.linkedin.com/in/vipeen-kumar-908212b8)
-- 🌐 Visit my [Website](https://vipeen21.github.io/) for more courses, study materials and codes.
+- 📫 How to reach me: go to my [**Linkedin Profile**](https://www.linkedin.com/in/vipeen-kumar-908212b8)
+- 🌐 Visit my [**Website**](https://vipeen21.github.io/) for more courses, study materials and codes.
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I am a multicultural, multilingual and multi-regional guy. 😃😃
   
