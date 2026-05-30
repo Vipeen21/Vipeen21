@@ -1,4 +1,19 @@
 ### Hi there 👋, My name is Vipeen Kumar. Welcome to my Github! 
+### 🛠️ Languages & Tools I Use
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 🤝 Connect & Support
+
+[![Follow on GitHub](https://img.shields.io/badge/Follow-Vipeen21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vipeen21)
+[![Star the Repo](https://img.shields.io/badge/Star-This_Repository-6f42c1?style=for-the-badge&logo=githubstars&logoColor=white)](https://github.com/Vipeen21/Vipeen21)
+
 I am a **Senior Researcher** at Panjab University, Chandigarh. 
 
 ### Here's my brief profile.
