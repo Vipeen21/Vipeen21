@@ -11,7 +11,7 @@
 
 ### 🤝 Connect & Support
 
-[![Follow on GitHub](https://img.shields.io/badge/Follow-Vipeen21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vipeen21)
+[![Follow on GitHub](https://img.shields.io/badge/Follow-Vipeen21-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vipeen21)
 [![Star the Repo](https://img.shields.io/badge/Star-This_Repository-6f42c1?style=for-the-badge&logo=githubstars&logoColor=white)](https://github.com/Vipeen21/Vipeen21)
 [![Go to GitHub Repo](https://img.shields.io/badge/Go_to-GitHub_Repo-007ecc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vipeen21?tab=repositories)
 
